@@ -1,1 +1,1 @@
-# Intro to Git
+# Intro to Git from ALX Software Engineering School
